@@ -101,7 +101,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # ssh agent
-export SSH_AUTH_SOCK=/Users/toehring/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
+# export SSH_AUTH_SOCK=/Users/toehring/Library/Containers/com.maxgoedjen.Secretive.SecretAgent/Data/socket.ssh
 
 
 
